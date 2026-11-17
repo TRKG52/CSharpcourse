@@ -1,0 +1,7 @@
+C:\게임 개발 계좌제\SEH\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\게임 개발 계좌제\SEH\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\게임 개발 계좌제\SEH\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\게임 개발 계좌제\SEH\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\게임 개발 계좌제\SEH\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\게임 개발 계좌제\SEH\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\게임 개발 계좌제\SEH\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
