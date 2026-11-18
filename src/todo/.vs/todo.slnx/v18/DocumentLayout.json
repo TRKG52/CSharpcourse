@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\CSharpcourse\\src\\todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\csharpcourse\\src\\todo\\2-1-1\\2-1-1-csharp-basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|todo.csproj|solutionrelative:2-1-1\\2-1-1-csharp-basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2-1-1-csharp-basic.cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\CSharpcourse\\src\\todo\\2-1-1\\2-1-1-csharp-basic.cs",
+              "RelativeDocumentMoniker": "2-1-1\\2-1-1-csharp-basic.cs",
+              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\CSharpcourse\\src\\todo\\2-1-1\\2-1-1-csharp-basic.cs",
+              "RelativeToolTip": "2-1-1\\2-1-1-csharp-basic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T08:42:07.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
