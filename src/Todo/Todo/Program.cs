@@ -5,18 +5,14 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("가격을 입력하세요: ");
-            if (int.TryParse(Console.ReadLine(), out int price))
-            {
-                Console.WriteLine($"2개 가격: {price * 2}");
-            }
-            else
-            {
-                Console.WriteLine("정수로 입력해주세요.");
-
-            }
-            Console.WriteLine(5 / 2);
-            Console.WriteLine(5 / 2.0);
+            string name = "민수";
+            int level = 1;
+            double speed = 2.5;
+            bool isReady = true;
+            char grade = 'A';
+            level = level + 1;
+            Console.WriteLine($"{name}: 레벨 {level}, 속도 {speed}");
+            Console.WriteLine($"준비: {isReady}, 등급: {grade}");
         }
     }
 }
