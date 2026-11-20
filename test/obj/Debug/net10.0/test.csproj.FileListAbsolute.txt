@@ -1,0 +1,17 @@
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\bin\Debug\net10.0\test.exe
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\bin\Debug\net10.0\test.deps.json
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\bin\Debug\net10.0\test.runtimeconfig.json
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\bin\Debug\net10.0\test.runtimeconfig.dev.json
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\bin\Debug\net10.0\test.dll
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\bin\Debug\net10.0\test.pdb
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.AssemblyInfoInputs.cache
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.AssemblyInfo.cs
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.csproj.CoreCompileInputs.cache
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.sourcelink.json
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.dll
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\refint\test.dll
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.pdb
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.genruntimeconfig.cache
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\ref\test.dll
+C:\Users\maurry\OneDrive\바탕 화면\게임개발 계좌제\CSharpcourse\test\obj\Debug\net10.0\test.csproj.Up2Date
