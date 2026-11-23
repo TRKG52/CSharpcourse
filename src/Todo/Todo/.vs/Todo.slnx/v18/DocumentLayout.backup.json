@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\upgradeloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:upgradeloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\\uB370\uC774\uD130\uC758 \uD750\uB984 \uC81C\uC5B4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:\uB370\uC774\uD130\uC758 \uD750\uB984 \uC81C\uC5B4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\dinomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:dinomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "upgradeLoop.cs",
-              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\upgradeLoop.cs",
-              "RelativeDocumentMoniker": "upgradeLoop.cs",
-              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\upgradeLoop.cs",
-              "RelativeToolTip": "upgradeLoop.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGEAAAARAAAAAAAAAA==",
+              "Title": "dinoMain.cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\dinoMain.cs",
+              "RelativeDocumentMoniker": "dinoMain.cs",
+              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\dinoMain.cs*",
+              "RelativeToolTip": "dinoMain.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T08:45:54.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uBC18\uBCF5\uBB38.cs",
-              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\\uBC18\uBCF5\uBB38.cs",
-              "RelativeDocumentMoniker": "\uBC18\uBCF5\uBB38.cs",
-              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\\uBC18\uBCF5\uBB38.cs",
-              "RelativeToolTip": "\uBC18\uBCF5\uBB38.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T08:27:58.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "name.cs",
-              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\name.cs",
-              "RelativeDocumentMoniker": "name.cs",
-              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\name.cs",
-              "RelativeToolTip": "name.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T08:11:02.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "\uB370\uC774\uD130\uC758 \uD750\uB984 \uC81C\uC5B4.cs",
-              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\\uB370\uC774\uD130\uC758 \uD750\uB984 \uC81C\uC5B4.cs",
-              "RelativeDocumentMoniker": "\uB370\uC774\uD130\uC758 \uD750\uB984 \uC81C\uC5B4.cs",
-              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\\uB370\uC774\uD130\uC758 \uD750\uB984 \uC81C\uC5B4.cs",
-              "RelativeToolTip": "\uB370\uC774\uD130\uC758 \uD750\uB984 \uC81C\uC5B4.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T07:10:19.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Todo",
-              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\Todo.csproj",
-              "RelativeDocumentMoniker": "Todo.csproj",
-              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\Todo.csproj",
-              "RelativeToolTip": "Todo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-20T07:09:29.62Z",
+              "WhenOpened": "2026-11-23T10:16:17.038Z",
               "EditorCaption": ""
             }
           ]
