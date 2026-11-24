@@ -15,7 +15,7 @@
 | 2026-11-19 | 웹입문서 | [개발 과정](./src/웹%20입문서/웹%20입문서.md/) |
 | 2026-11-20 | 반복조건문 | [개발 과정](src/Todo/Todo/day3) | 
 | 2026-11-23 | 객체지향 | [text](docs/개발일지/20261123.md) | 
-| 2026-11-24 | pull request | [shooting 게임 실습]docs/게임개발개념라이브러리/게임루프&아키텍쳐/게임루프.md
+| 2026-11-24 | pull request | [shooting 게임 실습](docs/게임개발개념라이브러리/게임루프&아키텍쳐)
 
 ## 바로가기
 ![flow chart](assets/game_loop_flowchart.svg)
