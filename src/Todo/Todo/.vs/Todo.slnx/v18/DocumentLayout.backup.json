@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\dinomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:dinomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|c:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@csharpcourse\\src\\todo\\todo\\\uD0C4\uB9C9 \uC288\uD305 \uAC8C\uC784 .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|Todo.csproj|solutionrelative:\uD0C4\uB9C9 \uC288\uD305 \uAC8C\uC784 .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dinoMain.cs",
-              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\dinoMain.cs",
-              "RelativeDocumentMoniker": "dinoMain.cs",
-              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\dinoMain.cs*",
-              "RelativeToolTip": "dinoMain.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Title": "\uD0C4\uB9C9 \uC288\uD305 \uAC8C\uC784 .cs",
+              "DocumentMoniker": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\\uD0C4\uB9C9 \uC288\uD305 \uAC8C\uC784 .cs",
+              "RelativeDocumentMoniker": "\uD0C4\uB9C9 \uC288\uD305 \uAC8C\uC784 .cs",
+              "ToolTip": "C:\\\uAC8C\uC784 \uAC1C\uBC1C \uACC4\uC88C\uC81C\\@CSharpcourse\\src\\Todo\\Todo\\\uD0C4\uB9C9 \uC288\uD305 \uAC8C\uC784 .cs",
+              "RelativeToolTip": "\uD0C4\uB9C9 \uC288\uD305 \uAC8C\uC784 .cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T10:16:17.038Z",
+              "WhenOpened": "2026-11-24T09:21:43.063Z",
               "EditorCaption": ""
             }
           ]

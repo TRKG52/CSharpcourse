@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="name.cs" />
+    <Compile Remove="page.cs" />
     <Compile Remove="데이터의 흐름 제어.cs" />
     <Compile Remove="반복문.cs" />
   </ItemGroup>
