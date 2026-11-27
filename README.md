@@ -16,9 +16,9 @@
 | 2026-11-20 | 반복조건문 | [개발 과정](src/Todo/Todo/day3) | 
 | 2026-11-23 | 객체지향 | [text](docs/개발일지/20261123.md) | 
 | 2026-11-24 | pull request | [shooting 게임 실습](docs/게임개발개념라이브러리/게임루프&아키텍쳐)
-| 2026-11-25 | team project |ConsoleEngineGame/README.md
-| 2026-11-26 | team project system |ConsoleEngineGame/docs/game/System.md
-| 2026-11-27 | 자료구조 알고리즘 |[스타크래프트](docs/개발일지/20261127)
+| 2026-11-25 | team project |(ConsoleEngineGame/README.md)|
+| 2026-11-26 | team project system |(ConsoleEngineGame/docs/game/System.md)|
+| 2026-11-27 | 자료구조 알고리즘 |[스타크래프트](docs/개발일지/20261127)|
 
 ## 바로가기
 ![flow chart](assets/game_loop_flowchart.svg)
